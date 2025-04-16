@@ -1,9 +1,9 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Login from './components/Login';
-import Menu from './components/Menu';
+// import Menu from './components/Menu';
 import QRCodeComponent from './components/Qr_code';
-import { Toaster } from 'react-hot-toast';
+
 
 const App = () => {
   return (
